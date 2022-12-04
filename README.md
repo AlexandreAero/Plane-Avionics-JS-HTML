@@ -1,4 +1,4 @@
-# Plane-Avionics-JS-HTML-poc
+# Plane-Avionics-JS-HTML
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/alexandreaero/Plane-Avionics-JS-HTML-poc)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/alexandreaero/Plane-Avionics-JS-HTML-poc)
